@@ -1,0 +1,30 @@
+{
+  "name": "CRUD-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbroz1/CRUD-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kbroz1/CRUD-app/issues"
+  },
+  "homepage": "https://github.com/kbroz1/CRUD-app#readme",
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.3",
+    "express-validator": "^6.12.1",
+    "flash": "^1.1.0",
+    "moment": "^2.29.1",
+    "multer": "^1.4.3",
+    "mysql": "^2.18.1"
+  }
+}
